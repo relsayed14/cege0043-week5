@@ -1,0 +1,9 @@
+[submodule "zceirel/www/js"]
+	path = zceirel/www/js
+	url = https://github.com/relsayed14/cege0043-jsReference
+[submodule "zceirel/www/css"]
+	path = zceirel/www/css
+	url = https://github.com/relsayed14/cege0043-cssReference
+[submodule "zceirel/www/images"]
+	path = zceirel/www/images
+	url = https://github.com/relsayed14/cege0043-imagesReference

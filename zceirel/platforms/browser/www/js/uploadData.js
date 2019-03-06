@@ -3,7 +3,7 @@ function startDataUpload () {
 	//extract form values (response values)
 	var name = document.getElementById("name").value;
 	var surname = document.getElementById("surname").value;
-	var moduleTitle = document.getElementById("moduleTitle").value;
+	var module = document.getElementById("module").value;
 	var postString = "name="+name +"&surname="+surname+"&moduleTitle="+moduleTitle;
 	alert (postString);
 

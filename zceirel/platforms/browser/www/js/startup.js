@@ -7,7 +7,7 @@ function trackAndCircle() {
 
 	trackLocation();
 	addPointLinePoly();
-	getEarthquakes();
+	// getEarthquakes();
 	loadW3HTML();
 
 }
